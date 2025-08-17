@@ -19,7 +19,7 @@ function App() {
 
     <div className="w-screen h-screen flex flex-col bg-slate-700 justify-center items-center gap-3">
 
-      <h1 className="text-3xl text-slate-50 font-semibold">Texto ao contrário!</h1>
+      <h1 className="text-3xl text-slate-50 font-semibold">Invertexto</h1>
 
       <p className="text-slate-50">Digite seu texto para vê-lo invertido!</p>
 
